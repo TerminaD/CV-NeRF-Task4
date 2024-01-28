@@ -3,7 +3,6 @@ __pycache__/*
 /utils/__pycache__/*
 scratch.py
 runs/*
-data/*
 renders/*
 checkpoints/*
 .vscode/*
